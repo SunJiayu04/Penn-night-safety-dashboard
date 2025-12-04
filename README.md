@@ -23,7 +23,7 @@ Two routing options: Shortest route (distance-based), Safest route (crime-weight
 
 Routes based on Street Centerline road geometry. Crime influence weighted using a Gaussian-based decay model.
 
-Data Sources: OpenDataPhilly(Crime.geojson — crime points dataset, Street_Centerline.geojson — official Philadelphia road centerline network)
+Data Sources: OpenDataPhilly(Crime.geojson, Street_Centerline.geojson)
 All datasets are projected in WGS84 (EPSG:4326).
 
 Author: Hazel Sun
