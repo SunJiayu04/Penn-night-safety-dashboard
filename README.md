@@ -3,6 +3,7 @@ A Web-based Safety Visualization Tool for Penn Students
 
 This project is a nighttime safety dashboard designed to help Penn students navigate campus more safely.
 It integrates crime data, building safety attributes, nighttime popularity levels, lighting levels, and routing functions.
+
 Features:
 1. Interactive Map
 Displays campus buildings with: Perceived safety level (1–5), Lighting level, Nighttime popularity, Place category (Academic / Residential / Public / Community).
